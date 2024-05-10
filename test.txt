@@ -5,3 +5,4 @@ hi again x2
 action test
 action test 2
 mmmm
+server test
